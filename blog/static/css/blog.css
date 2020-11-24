@@ -44,3 +44,13 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
   color: #000000;
 }
+
+.post-menu {
+  float: right;
+  height: 32px;
+  margin: 0 2px;
+}
+
+.comment {
+  margin: 20px 0px 20px 20px;
+}
